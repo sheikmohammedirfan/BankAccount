@@ -8,7 +8,7 @@ System.out.println(a);
 System.out.println(" ur are eligible to vote ");
 }
 else{
-    System.out.println(" not valid ");
+    System.out.println(" it is not valid ");
 }
 }
 public int getA(){
