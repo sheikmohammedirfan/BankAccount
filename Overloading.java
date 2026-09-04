@@ -12,7 +12,7 @@ class B{
 public class Overloading {
     public static void main(String[] args) {
         A objA = new A();
-        System.out.println(objA.disp(2, 4));
+        System.out.println(objA.disp(2, 555));
     }
     
 }
